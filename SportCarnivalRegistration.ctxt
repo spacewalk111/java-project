@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SportCarnivalRegistration
+comment1.params=
+comment1.target=SportCarnivalRegistration()
+comment2.params=
+comment2.target=ReceiptPanel\ getReceiptPanel()
+comment3.params=
+comment3.target=java.awt.CardLayout\ getCardLayout()
+comment4.params=
+comment4.target=javax.swing.JPanel\ getMainPanel()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

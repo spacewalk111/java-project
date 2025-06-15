@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FormPanel
+comment1.params=app
+comment1.target=FormPanel(SportCarnivalRegistration)
+comment2.params=
+comment2.target=void\ initializeSportData()
+comment3.params=
+comment3.target=javax.swing.JPanel\ createPanel()
+comment4.params=name\ email\ ageCategory\ sport\ date\ fee\ originalFee
+comment4.target=void\ saveRegistrationToFile(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double)
+numComments=5

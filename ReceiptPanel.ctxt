@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ReceiptPanel
+comment1.params=app
+comment1.target=ReceiptPanel(SportCarnivalRegistration)
+comment2.params=
+comment2.target=javax.swing.JPanel\ createPanel()
+comment3.params=receiptDetails\ grandTotal\ totalTax
+comment3.target=void\ updateReceipt(java.lang.String,\ double,\ double)
+numComments=4

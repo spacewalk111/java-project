@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HomePanel
+comment1.params=app
+comment1.target=HomePanel(SportCarnivalRegistration)
+comment2.params=
+comment2.target=javax.swing.JPanel\ createPanel()
+numComments=3
